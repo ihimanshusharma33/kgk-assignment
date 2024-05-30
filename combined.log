@@ -1,0 +1,29 @@
+2024-05-29T12:10:39.851Z info: Server is running on the port 4000
+2024-05-29T12:10:53.530Z info: Incoming request: POST /users/login - ::ffff:127.0.0.1
+2024-05-29T12:15:31.954Z info: Incoming request: GET /notification - ::ffff:127.0.0.1
+2024-05-29T12:16:00.149Z info: Incoming request: POST /notification/mark-read - ::ffff:127.0.0.1
+2024-05-29T12:16:52.547Z info: Server is running on the port 4000
+2024-05-29T12:17:54.414Z info: Server is running on the port 4000
+2024-05-29T12:19:58.467Z info: Server is running on the port [object Object]
+2024-05-29T12:20:28.742Z info: Server is running on the port 4000
+2024-05-29T12:21:01.620Z info: Server is running on the port 4000
+2024-05-29T12:21:21.605Z info: Server is running on the port 4000
+2024-05-29T12:21:32.660Z info: Server is running on the port 4000
+2024-05-29T12:21:52.112Z info: Server is running on the port 4000
+2024-05-29T12:22:27.968Z info: Server is running on the port 4000
+2024-05-29T12:22:32.478Z info: Server is running on the port 4000
+2024-05-29T12:29:46.274Z info: Server is running on the port 4000
+2024-05-29T12:30:20.951Z info: Server is running on the port 4000
+2024-05-29T12:32:11.569Z info: Server is running on the port 4000
+2024-05-29T12:39:43.810Z info: Server is running on the port 4000
+2024-05-29T12:41:21.063Z info: Server is running on the port 4000
+2024-05-29T12:41:48.407Z info: Server is running on the port 4000
+2024-05-29T12:44:27.874Z info: Server is running on the port 4000
+2024-05-29T12:45:03.888Z info: Server is running on the port 4000
+2024-05-29T12:50:06.537Z info: Server is running on the port 4000
+2024-05-29T15:57:46.448Z info: Server is running on the port 4000
+2024-05-30T07:37:22.358Z info: Server is running on the port 4000
+2024-05-30T07:37:45.799Z info: Server is running on the port 4000
+2024-05-30T07:38:28.419Z info: Server is running on the port 4000
+2024-05-30T08:26:26.297Z info: Server is running on the port 4000
+2024-05-30T08:26:40.708Z info: Server is running on the port 4000
